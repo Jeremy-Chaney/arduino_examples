@@ -1,5 +1,6 @@
 /*
- * Connor MacLeod's Project for Circuits
+ * Arcade-Style Cornole for Arduino Mega
+ * by Jeremy Chaney and Connor MacLeod
  */
 //Header Files to include
 #include <Adafruit_GFX.h>
