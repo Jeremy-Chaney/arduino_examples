@@ -1,21 +1,9 @@
 /* **************************************
- * UT Design team 976 - "Si Solar"      *
  * Solar Angle Detector Arduino Code    *
  *                                      *
  * By Jeremy Chaney                     *
  * Electical Engineering Undergraduate  *
  * The University of Texas at Dallas    *
- *                                      *
- * Team Members:                        *
- * James Barnes - EE                    *
- * Jeremy Chaney - EE                   *
- * Joseph Holroyd - EE                  *
- * Woosung Jung - EE                    *
- * Tony Le - CE                         *
- * Jeffery Patton - EE                  *
- *                                      *
- * Advisor:                             *
- * Dr. Neal Skinner                     *
  *                                      *
  * Description:                         *
  * The solar angle detector is the      *
